@@ -1,0 +1,10 @@
+{
+  "name": "smart-shop-erp-backend",
+  "private": true,
+  "version": "1.0.0",
+  "description": "PHP backend - start with: php -S localhost:8000 index.php",
+  "scripts": {
+    "start": "C:\\xampp\\php\\php.exe -S localhost:8000 index.php",
+    "dev": "C:\\xampp\\php\\php.exe -S localhost:8000 index.php"
+  }
+}

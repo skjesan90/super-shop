@@ -1,0 +1,5 @@
+{
+  "name": "smart-shop/erp-backend",
+  "description": "Smart Shop ERP PHP Backend (no Composer dependencies required)",
+  "require": {}
+}
